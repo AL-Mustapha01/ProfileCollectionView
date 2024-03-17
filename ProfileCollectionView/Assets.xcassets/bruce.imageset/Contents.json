@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Ben Affleck Bruce Wayne.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
